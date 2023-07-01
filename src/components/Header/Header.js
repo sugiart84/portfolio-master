@@ -8,6 +8,7 @@ import "../../pages/style.css";
 function Header() {
   const [expand, updateExpanded] = useState(false);
   const [navColour, updateNavbar] = useState(false);
+  
 
   function scrollHandler() {
     if (window.scrollY >= 20) {
