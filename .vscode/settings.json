@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3fa71fad-c3d1-4018-ac43-a2357c65e1fd/resourceGroups/sugiarttampubolon/providers/Microsoft.Web/sites/modom-tech",
+    "appService.deploySubpath": "."
+}
